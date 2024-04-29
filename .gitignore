@@ -1,0 +1,7 @@
+*.pub
+id_rsa_MINED_*
+id_rsa_MINED__*.pub
+ssh
+
+# Ignore datestamped directories
+ssh-keys-[0-9]*_*
