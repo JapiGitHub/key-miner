@@ -1,3 +1,4 @@
+![Description or Alt Text for the Image](https://i.pinimg.com/736x/d8/bc/25/d8bc251566d427c4a67f92479029453f.jpg)
 # SSH Key Generator
 
 This project provides a Python-based tool for generating RSA SSH keys and displaying their randomart images. It utilizes Python's `curses` library to manage real-time UI updates in the terminal. This tool is designed to generate a specified number of SSH keys and visualize each key's randomart image, while also displaying key generation statistics.
@@ -25,3 +26,4 @@ git clone https://github.com/yourusername/ssh-key-generator.git
 cd ssh-key-generator
 python3 excavator.py
 ```
+
